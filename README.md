@@ -9,7 +9,7 @@ This section uses an SMO-based SVM implementation (adapted from Lucien East’s 
 
 `train2_2.py` trains SVMs with $C=1,10,100$, and plots decision boundaries and support vectors for each model:
 
-<p float="left" align="center"> <img src="img/SVM1.PNG" height="370"/> <img src="img/SVM10.PNG" height="370"/> </p> <p align="center"> <img src="img/SVM100.PNG" height="370"/> </p>
+<p float="left" align="center"> <img src="img/SVM1.PNG" width="500"/> <img src="img/SVM10.PNG" width="500"/> <img src="img/SVM100.PNG" width="500"/> </p>
 
 ### Margin and Support Vector Analysis
 
